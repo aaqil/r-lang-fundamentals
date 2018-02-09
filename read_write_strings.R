@@ -13,3 +13,5 @@ print(b)
 #If the character vector has a length greater than 1, arguments are separated by a space (by default).
 
 cat(c("hello", "world", "\n"))
+
+# Note: The c() function does not do string-concatenation.

@@ -3,7 +3,7 @@ mat1 <- matrix(nrow = 8, ncol = 4)
 
 # These are used to enter the data into the matrix.
 # Here c() function is used which is used to concatenate the data.
-# In the below example the data is filled by column wise.
+# In the below example the data is filled by column wise. You can also fill by row wise
 
 mat1[, 1] <- c(59, 55, 53.5, 55, 52.5, 57.5, 53, 55)
 mat1[, 2] <- c(22.3, 19.7, 20.8, 20.3, 20.8, 21.5,20.6, 21.5)
