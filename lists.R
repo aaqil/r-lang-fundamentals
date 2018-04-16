@@ -19,7 +19,7 @@ list_4 <- list("Sun","Mon","Tue")
 merged.list <- c(list_3,list_4)
 
 # Print the merged list.
-print(merged.list)
+print(merged.list) #printing merged list
 
 
 
